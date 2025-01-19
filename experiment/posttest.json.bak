@@ -1,0 +1,38 @@
+[
+   {
+      "question": "The term ‘Infinite slab’ assures that the heat flow is",
+      "qid": 1,
+      "option_a": "steady",
+      "option_b": "unidirectional",
+      "option_c": "radial",
+      "option_d": "Kcal/cm C",
+      "correct_option": "c"
+   },
+   {
+      "question": "Hollow cylinder having inner and outer surface areas A<sub>1</sub> and A<sub>2</sub> can be treated as a slab of thickness (r2 – r1) and area A as",
+      "qid": 2,
+      "option_a": "$$ A_1 - A_2 $$",
+      "option_b": "$$ \\frac{A_1}{A_2} $$",
+      "option_c": "$$ \\frac{A_1 - A_2}{ln\\left(\\frac{A_1}{A_2} \\right)} $$",
+      "option_d": "$$ \\sqrt{A_1A_2} $$",
+      "correct_option": "a"
+   },
+   {
+      "question": "Conduction through a cylindrical rod insulated on circumferential is",
+      "qid": 3,
+      "option_a": "radial",
+      "option_b": "axial",
+      "option_c": "peripheral",
+      "option_d": "none",
+      "correct_option": "b"
+   },
+   {
+      "question": "For Copper, K = 380 W/mK. Then the value of K in W/mC is",
+      "qid": 4,
+      "option_a": "380 - 273",
+      "option_b": "380",
+      "option_c": "380/273",
+      "option_d": "380 + 273",
+      "correct_option": "b"
+   }
+]

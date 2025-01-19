@@ -31,4 +31,4 @@ $$
 
 <p>
    <strong>Thermal conductivity (K) :</strong> The constant of proportionality (K) represents a property of substance, known as Thermal conductivity .It indicates the ease at which conduction  can occur in the medium. 
-</p>
+</p><script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>

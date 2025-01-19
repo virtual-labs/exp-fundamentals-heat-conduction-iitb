@@ -1,0 +1,92 @@
+[
+   {
+      "question": "Which is Not a fundamental mode of heat transfer",
+      "qid": 1,
+      "option_a": "Conduction",
+      "option_b": "Convection",
+      "option_c": "Radiation",
+      "option_d": "All",
+      "correct_option": "c"
+   },
+   {
+      "question": "Pure conduction can be observed in,",
+      "qid": 2,
+      "option_a": "Solids",
+      "option_b": "Liquids",
+      "option_c": "Gases",
+      "option_d": "None",
+      "correct_option": "a"
+   },
+   {
+      "question": "Large number of free electrons are present in,",
+      "qid": 3,
+      "option_a": "Metals",
+      "option_b": "Non metals",
+      "option_c": "Metaloids",
+      "option_d": "All",
+      "correct_option": "b"
+   },
+   {
+      "question": "Free electrons move in the direction of",
+      "qid": 4,
+      "option_a": "heat flow",
+      "option_b": "temperature gradient",
+      "option_c": "Random",
+      "option_d": "None",
+      "correct_option": "b"
+   },
+   {
+      "question": "Number of free electrons present in wood are",
+      "qid": 5,
+      "option_a": "zero",
+      "option_b": "abundant",
+      "option_c": "few",
+      "option_d": "Not known",
+      "correct_option": "b"
+   },
+   {
+      "question": "The temperature gradient in the direction f heat flow is",
+      "qid": 6,
+      "option_a": "positive",
+      "option_b": "zero",
+      "option_c": "negative",
+      "option_d": "None",
+      "correct_option": "b"
+   },
+   {
+      "question": "Thermal conductivity of metals is high due to their",
+      "qid": 7,
+      "option_a": "melting point",
+      "option_b": "strength",
+      "option_c": "free electrons",
+      "option_d": "All",
+      "correct_option": "b"
+   },
+   {
+      "question": "Thermal conductivity of good insulator is",
+      "qid": 8,
+      "option_a": "large",
+      "option_b": "small",
+      "option_c": "medium",
+      "option_d": "Any",
+      "correct_option": "b"
+   },
+   {
+      "question": "In steady state, the rate of conduction is not a function of",
+      "qid": 9,
+      "option_a": "Temperature",
+      "option_b": "time",
+      "option_c": "direction",
+      "option_d": "All",
+      "correct_option": "b"
+   },
+   {
+      "question": "Which is Not a unit of Thermal conductivity.",
+      "qid": 10,
+      "option_a": "W/mk",
+      "option_b": "W/m",
+      "option_c": "W/mC",
+      "option_d": "Kcal/cm C",
+      "correct_option": "b"
+   }
+]
