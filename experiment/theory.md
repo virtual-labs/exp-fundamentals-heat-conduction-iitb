@@ -1,34 +1,25 @@
-<h2>Theory:</h2>
+<img src="./images/th1.jpg" style="width:100%">
 
-<p>
-   <strong>Definition : </strong> Conduction is the mode of heat transfer in which the flow of energy through a substance takes place without any appreciable movement of an individual molecule.
-</p>
+<img src="./images/th2.jpg" style="width:100%">
 
-<p>
-   <strong>Physical occurrence :</strong> Transfer of energy in conduction is due to
-   <ol type="a">
-      <li>
-         <strong>Lattice Vibrations :</strong> The molecular vibrations are known as lattice vibrations. While vibrating, the neighbouring molecules collide with each other. At the time of physical contact, exchange of energy takes place.
-      </li>
-      <li>
-         <strong>Flow of Free Electrons :</strong> The valance electrons which overcome the binding force and become free to move anywhere within the boundaries of the substance are known as free electrons. While moving, these electrons carry certain amount of energy along with them.
-      </li>
-   </ol>
-</p>
+<img src="./images/th3.jpg" style="width:100%">
 
+<img src="./images/th4.jpg" style="width:100%">
 
-<p>
-   <strong>Fourier’s law :</strong> It states that, the rate of conduction in any direction (say x) is directly proportional to the area available normal to the direction of conduction (A) and temperature gradient in that direction.
-</p>
+<img src="./images/th5.jpg" style="width:100%">
 
-$$
-   ∴ \qquad q ∝ A × \frac{dT}{dx}
-$$
+<img src="./images/th6.jpg" style="width:100%">
 
-$$
-   q = -K\left(A × \frac{dT}{dx} \right) \tag{K is constant of proportionality}
-$$
+<img src="./images/th7.jpg" style="width:100%">
 
-<p>
-   <strong>Thermal conductivity (K) :</strong> The constant of proportionality (K) represents a property of substance, known as Thermal conductivity .It indicates the ease at which conduction  can occur in the medium. 
-</p><script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
+<img src="./images/th8.jpg" style="width:100%">
+
+<img src="./images/th9.jpg" style="width:100%">
+
+<img src="./images/th10.jpg" style="width:100%">
+
+<img src="./images/th11.jpg" style="width:100%">
+
+<img src="./images/th12.jpg" style="width:100%">
+
+<img src="./images/th13jpg" style="width:100%"><script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
