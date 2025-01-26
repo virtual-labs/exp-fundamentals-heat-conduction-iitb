@@ -22,4 +22,4 @@
 
 <img src="./images/th12.jpg" style="width:100%">
 
-<img src="./images/th13jpg" style="width:100%"><script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
+<img src="./images/th13.jpg" style="width:100%"><script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
